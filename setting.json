@@ -49,7 +49,7 @@
       "replace-string":[]
     },
     {
-      "target":"https://getmodsapk.com",
+      "target":"https://hungry-johnson-8395b2.netlify.app",
       "element-remove-selector":[
         ".box-header",
         ".box-language",
@@ -59,7 +59,7 @@
       "replace-string":[]
     },
     {
-      "target":"https://getmodsapk.com",
+      "target":"https://hungry-johnson-8395b2.netlify.app",
       "element-remove-selector":[
         "header",
         ".trail-wrapper",
