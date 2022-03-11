@@ -218,14 +218,6 @@
   ],
   "inject-element-body":[
     {
-          "name-attribute":"src",
-          "value-attribute":"https://pop.dojo.cc/5677.js"
-        }
-      ],
-      "data-innerHTML":"",
-      "position":"start"
-	 },
-    {
       "name-element":"script",
       "data-attribute":[
         {
