@@ -2,7 +2,7 @@
   "name-web":"STACKOVERFLOW MASKODING",
   "author":"MASKODING",
   "remove-comment-html":true,
-  "target":"https://m.tribunnews.com",
+  "target":"https://getmodsapk.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "target":"m.tribunnews.com",
+      "target":"getmodsapk.com",
       "element-remove-selector":[
         ".baca",
         ".op-interactive",
