@@ -20,14 +20,14 @@
   ],
   "costom-element-remove":[
     {
-      "target":"https://getmodsapk.com",
+      "target":"https://hungry-johnson-8395b2.netlify.app",
       "element-remove-selector":[
         ".js-dismissable-hero",
         ".lazy-loading"
       ],
       "replace-string":[
         {
-          "target":"https://getmodsapk.com",
+          "target":"https://hungry-johnson-8395b2.netlify.app",
           "replace":"${nameWeb}"
         }
       ]
