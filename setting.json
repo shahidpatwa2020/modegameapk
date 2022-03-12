@@ -89,6 +89,21 @@
       "data-attribute":[
         {
           "name-attribute":"name",
+          "value-attribute":"google-site-verification"
+        },
+        {
+          "name-attribute":"content",
+          "value-attribute":"sRpUp1oc_Y7z6tOX2GmGV-L6vLWYpLUVgQxigkjxJEk"
+        }
+      ],
+      "data-innerHTML":"",
+      "position":"start"
+    },
+    {
+      "name-element":"meta",
+      "data-attribute":[
+        {
+          "name-attribute":"name",
           "value-attribute":"description"
         },
         {
